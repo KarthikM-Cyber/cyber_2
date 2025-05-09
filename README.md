@@ -78,4 +78,3 @@ Conducted an internal security audit for **Botium Toys**, a U.S.-based toy retai
 
 ---
 
-**Note**: Replace `botium-audit-report.pdf` with your actual document link.  
